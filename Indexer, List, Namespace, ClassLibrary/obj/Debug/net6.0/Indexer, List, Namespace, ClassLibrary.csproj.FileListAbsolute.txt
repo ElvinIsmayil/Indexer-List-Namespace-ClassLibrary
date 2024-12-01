@@ -1,0 +1,19 @@
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.exe
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.deps.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.runtimeconfig.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.AssemblyInfo.cs
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.sourcelink.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer,.D373BF5C.Up2Date
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\refint\Indexer, List, Namespace, ClassLibrary.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\Indexer, List, Namespace, ClassLibrary.genruntimeconfig.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\obj\Debug\net6.0\ref\Indexer, List, Namespace, ClassLibrary.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\PB503Helper.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary\bin\Debug\net6.0\PB503Helper.pdb

@@ -1,0 +1,12 @@
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\bin\Debug\net6.0\PB503Helper.deps.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\bin\Debug\net6.0\PB503Helper.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\bin\Debug\net6.0\PB503Helper.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\obj\Debug\net6.0\PB503Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\obj\Debug\net6.0\PB503Helper.AssemblyInfoInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\obj\Debug\net6.0\PB503Helper.AssemblyInfo.cs
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\obj\Debug\net6.0\PB503Helper.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\obj\Debug\net6.0\PB503Helper.sourcelink.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\obj\Debug\net6.0\PB503Helper.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\obj\Debug\net6.0\refint\PB503Helper.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\obj\Debug\net6.0\PB503Helper.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Indexer, List, Namespace, ClassLibrary\Helper\obj\Debug\net6.0\ref\PB503Helper.dll

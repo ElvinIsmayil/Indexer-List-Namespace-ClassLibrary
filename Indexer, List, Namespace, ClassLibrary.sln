@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexer, List, Namespace, ClassLibrary", "Indexer, List, Namespace, ClassLibrary\Indexer, List, Namespace, ClassLibrary.csproj", "{241ADB78-DD7E-4EC5-8B3B-EE0DCD7701D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB503Helper", "Helper\PB503Helper.csproj", "{2CFEC1C5-5F51-4F16-9A70-D37EFA5326ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241ADB78-DD7E-4EC5-8B3B-EE0DCD7701D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241ADB78-DD7E-4EC5-8B3B-EE0DCD7701D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241ADB78-DD7E-4EC5-8B3B-EE0DCD7701D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241ADB78-DD7E-4EC5-8B3B-EE0DCD7701D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFEC1C5-5F51-4F16-9A70-D37EFA5326ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFEC1C5-5F51-4F16-9A70-D37EFA5326ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFEC1C5-5F51-4F16-9A70-D37EFA5326ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFEC1C5-5F51-4F16-9A70-D37EFA5326ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

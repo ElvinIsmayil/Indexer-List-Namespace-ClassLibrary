@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Indexer, List, Namespace, ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{241ADB78-DD7E-4EC5-8B3B-EE0DCD7701D0}|Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\indexer, list, namespace, classlibrary\\indexer, list, namespace, classlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241ADB78-DD7E-4EC5-8B3B-EE0DCD7701D0}|Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary.csproj|solutionrelative:indexer, list, namespace, classlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFEC1C5-5F51-4F16-9A70-D37EFA5326ED}|Helper\\PB503Helper.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\indexer, list, namespace, classlibrary\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFEC1C5-5F51-4F16-9A70-D37EFA5326ED}|Helper\\PB503Helper.csproj|solutionrelative:helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241ADB78-DD7E-4EC5-8B3B-EE0DCD7701D0}|Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\indexer, list, namespace, classlibrary\\indexer, list, namespace, classlibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241ADB78-DD7E-4EC5-8B3B-EE0DCD7701D0}|Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary.csproj|solutionrelative:indexer, list, namespace, classlibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241ADB78-DD7E-4EC5-8B3B-EE0DCD7701D0}|Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\indexer, list, namespace, classlibrary\\indexer, list, namespace, classlibrary\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241ADB78-DD7E-4EC5-8B3B-EE0DCD7701D0}|Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary.csproj|solutionrelative:indexer, list, namespace, classlibrary\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "Indexer, List, Namespace, ClassLibrary\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary\\Models\\Library.cs",
+              "RelativeToolTip": "Indexer, List, Namespace, ClassLibrary\\Models\\Library.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:12:38.075Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Indexer, List, Namespace, ClassLibrary\\Helper\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper\\Helper.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Indexer, List, Namespace, ClassLibrary\\Helper\\Helper.cs",
+              "RelativeToolTip": "Helper\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:51:01.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Indexer, List, Namespace, ClassLibrary\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary\\Models\\Book.cs",
+              "RelativeToolTip": "Indexer, List, Namespace, ClassLibrary\\Models\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBkAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:09:41.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "Indexer, List, Namespace, ClassLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Indexer, List, Namespace, ClassLibrary\\Indexer, List, Namespace, ClassLibrary\\Program.cs",
+              "RelativeToolTip": "Indexer, List, Namespace, ClassLibrary\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:39:47.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

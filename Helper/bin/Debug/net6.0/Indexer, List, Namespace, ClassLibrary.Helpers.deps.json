@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Indexer, List, Namespace, ClassLibrary.Helpers/1.0.0": {
+        "runtime": {
+          "Indexer, List, Namespace, ClassLibrary.Helpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Indexer, List, Namespace, ClassLibrary.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
